@@ -1,4 +1,4 @@
-// Práctica 2: Encender todos los LEDs del tablero secuencialmente
+// Práctica 4: Encender todos los LEDs del tablero secuencialmente
 
 #include <Controllino.h>  // Librería necesaria para manejar los pines del módulo Controllino
 
