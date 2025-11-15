@@ -20,13 +20,13 @@ Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de
 ---
 
 ## Índice
-- [Contenido del Repositorio](#-contenido-del-repositorio)  
-- [Requisitos](#-requisitos-del-proyecto)  
-  - [Hardware](#-hardware)  
-  - [Software](#-software)  
-- [Arquitectura General](#-arquitectura-general)  
-- [Autores](#-autores)
-- 
+- [Contenido del Repositorio](#contenido-del-repositorio)  
+- [Requisitos del Proyecto](#requisitos-del-proyecto)  
+  - [Hardware](#hardware)  
+  - [Software](#software)  
+- [Arquitectura General](#arquitectura-general)  
+- [Autores](#autores)  
+- [Enlaces del Repositorio](#enlaces-del-repositorio)
 ---
 
 ## Contenido del Repositorio
@@ -85,3 +85,11 @@ GitHub: [@elcaja](https://github.com/elcaja)
 GitHub: [@ChrisCarchipulla](https://github.com/ChrisCarchipulla)
 
 ---
+
+## Enlaces del Repositorio
+
+Aquí un ejemplo de cómo enlazar carpetas internas:
+
+**Práctica 1:**  
+[https://github.com/elcaja/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID](https://github.com/elcaja/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID)
+
