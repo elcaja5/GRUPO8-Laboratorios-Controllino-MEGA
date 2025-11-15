@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center" style="margin-bottom: 10px;">
-  <h1 style="margin:0;">🚀 <strong>Control-Digital</strong></h1>
+  <h1 style="margin:0;"> <strong>Control-Digital</strong></h1>
   <p style="margin:4px 0 10px 0; font-size:14px; color: #555;">
     Prácticas de Control Digital con <strong>Controllino</strong> &amp; <strong>HMI Stone</strong>
   </p>
@@ -12,14 +12,14 @@
 
 ---
 
-# 📘 Control-Digital
+#  Control-Digital
 **Prácticas de Control Digital con Controllino & HMI Stone**
 
 Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de **automatización**, **adquisición de datos** e **integración HMI**. Diseño educativo que puede usarse como base para prototipos industriales.
 
 ---
 
-## 📑 Índice
+## Índice
 - [Contenido del Repositorio](#-contenido-del-repositorio)  
 - [Requisitos](#-requisitos-del-proyecto)  
   - [Hardware](#-hardware)  
@@ -31,9 +31,9 @@ Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de
 
 ---
 
-## 📁 Contenido del Repositorio
+## Contenido del Repositorio
 
-| 🔧 Proyecto | 📝 Descripción |
+| Proyecto | Descripción |
 |------------:|---------------:|
 | **Práctica 1 — Manejo de Salidas Digitales (Controllino Mega)** | Control de una matriz de LEDs 3×3 usando salidas del Controllino Mega. |
 | **Práctica 2 — Control Digital y Máquina de Estados (FSM)** | **A:** Uso de 3 botones para controlar patrones de LEDs.<br>**B:** FSM que implementa un semáforo simple. |
@@ -42,9 +42,9 @@ Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de
 
 ---
 
-## 🛠️ Requisitos del Proyecto
+## Requisitos del Proyecto
 
-### 🔌 Hardware
+### Hardware
 - **Controllino Mega**  
 - **HMI STONE** (Serial TTL — 115200 baudios)  
 - Motor DC con **encoder (36 ppr)**  
@@ -52,7 +52,7 @@ Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de
 - NI **myDAQ**  
 - Kit EPC (si aplica)
 
-### 💻 Software
+### Software
 - **Arduino IDE**  
 - Librerías: `Stone_HMI_Define.h`, `Procesar_HMI.h`  
 - **NI LabVIEW** (opcional — para simulación y obtención de función de transferencia)
@@ -77,7 +77,7 @@ Controllino Mega
 
 ---
 
-## 👥 Autores
+## Autores
 
 **Eric Cajamarca**  
 GitHub: [@elcaja](https://github.com/elcaja)
@@ -93,6 +93,5 @@ Material y referencias usadas como base para estas prácticas: documentación of
 
 ---
 
-<div align="center" style="margin-top:18px;">
-  <small>✨ Hecho con propósito educativo — úsalo, mejóralo y compártelo.</small>
+<div align="center" style="margin-top:18px;">  
 </div>
