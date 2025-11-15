@@ -47,13 +47,13 @@ Diseñado con fines educativos, pero aplicable a prototipos industriales.
 - Motor DC con **encoder (36 ppr)**  
 - Fuente de alimentación para motor  
 - NI **myDAQ**  
-- Kit EPC (si aplica)
+
 
 ### Software
 - **Arduino IDE**  
 - Librerías: `Stone_HMI_Define.h`, `Procesar_HMI.h`  
 - **NI LabVIEW** (opcional — para simulación y obtención de función de transferencia)
-
+- **MATLAB**
 ---
 
 ## Arquitectura General
