@@ -73,7 +73,6 @@ Controllino Mega
 └── Interfaz HMI
     └── Comunicación Serial (UART)
 
----
 ```
 
 ## Autores
@@ -88,6 +87,12 @@ GitHub: [@ChrisCarchipulla](https://github.com/ChrisCarchipulla)
 
 ## Enlaces del Repositorio
 
+- **Práctica 4 — Secuencia LEDs:**
+https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab4_secuencia_leds   
+- **Práctica 5 — Secuencia Semáforo:**
+https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab5_Secuencia2_Sem%C3%A1foro    
+- **Práctica 6 — PWM:**
+https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab6_PWM
 - **Práctica 7 — Control PID:**    
 https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID
 
