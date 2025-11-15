@@ -29,7 +29,7 @@ Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de
 - [Enlaces del Repositorio](#enlaces-del-repositorio)
 ---
 
-## Contenido del Repositorio
+## 📘 Contenido del Repositorio
 
 | Proyecto | Descripción |
 |------------:|---------------:|
@@ -75,7 +75,7 @@ Controllino Mega
 
 ```
 
-## Autores
+## 👥 Autores
 
 **Eric Cajamarca**  
 GitHub: [@elcaja](https://github.com/elcaja)
