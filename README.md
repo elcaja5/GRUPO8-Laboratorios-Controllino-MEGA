@@ -12,10 +12,10 @@
 
 ---
 
-#  Control-Digital
-**Prácticas de Control Digital con Controllino & HMI Stone**
+# 📘 Control-Digital  
+Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de **automatización**, **adquisición de datos** e **integración con HMI industriales**.  
+Diseñado con fines educativos, pero aplicable a prototipos industriales.
 
-Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de **automatización**, **adquisición de datos** e **integración HMI**. Diseño educativo que puede usarse como base para prototipos industriales.
 
 ---
 
