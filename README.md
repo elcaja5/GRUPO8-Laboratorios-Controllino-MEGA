@@ -88,6 +88,6 @@ GitHub: [@ChrisCarchipulla](https://github.com/ChrisCarchipulla)
 
 ## Enlaces del Repositorio
 
-- **Práctica 7 — Control PID:**  
-  https://github.com/elcaja/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID
+- **Práctica 7 — Control PID:**    
+https://github.com/elcaja5/GRUPO8-Laboratorios-Controllino-MEGA/tree/main/Lab7_PID
 
