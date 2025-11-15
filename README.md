@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center" style="margin-bottom: 10px;">
-  <h1 style="margin:0;"> <strong>Control-Digital</strong></h1>
+  <h1 style="margin:0;"> <strong>Control-Digital - Grupo 8</strong></h1>
   <p style="margin:4px 0 10px 0; font-size:14px; color: #555;">
     Prácticas de Control Digital con <strong>Controllino</strong> &amp; <strong>HMI Stone</strong>
   </p>
