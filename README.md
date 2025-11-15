@@ -1,36 +1,61 @@
-# Control-Digital  
-### Prácticas de Control Digital con Controllino & HMI Stone
-
-Este repositorio contiene una colección de **prácticas de laboratorio** orientadas al aprendizaje de **automatización**, **adquisición de datos**, **control digital** e integración con **HMI industriales**.  
-Todo el contenido está diseñado con fines **educativos**, pero también puede servir como base para prototipos y aplicaciones en entornos reales.
-
----
-
-## Contenido del Repositorio
-
-| Proyecto | Descripción |
-|------------|----------------|
-| **Práctica 1 — Manejo de Salidas Digitales (Controllino Mega)** | Control de una matriz de LEDs 3×3 utilizando salidas digitales del Controllino Mega. |
-| **Práctica 2 — Control Digital y Máquina de Estados (FSM)** | **A:** Uso de 3 botones para controlar LEDs. <br> **B:** Implementación de una máquina de estados para un semáforo simple. |
-| **Práctica 3 — Interfaz Gráfica (HMI Stone)** | Control de encendido/apagado de LEDs y ajuste de brillo mediante una HMI STONE. |
-| **Práctica 4 — Adquisición y Control PID de Motor DC** | Obtención de datos del encoder y control PID configurado desde la HMI. |
+<!-- Banner -->
+<div align="center" style="margin-bottom: 10px;">
+  <h1 style="margin:0;">🚀 <strong>Control-Digital</strong></h1>
+  <p style="margin:4px 0 10px 0; font-size:14px; color: #555;">
+    Prácticas de Control Digital con <strong>Controllino</strong> &amp; <strong>HMI Stone</strong>
+  </p>
+  <!-- Simple banner-like box -->
+  <div style="display:inline-block; padding:10px 18px; border-radius:12px; background: linear-gradient(90deg,#0ea5e9 0%, #7c3aed 100%); color: white;">
+    <strong>Automatización • Adquisición de datos • Control PID</strong>
+  </div>
+</div>
 
 ---
 
-## Requisitos del Proyecto
+# 📘 Control-Digital
+**Prácticas de Control Digital con Controllino & HMI Stone**
 
-### Hardware
-- Controllino Mega  
-- Pantalla HMI STONE (Serial TTL – 115200 baudios)  
-- Motor DC con encoder (36 pulsos por revolución)  
-- Fuente de alimentación para el motor  
-- NI myDAQ  
+Repositorio con prácticas de laboratorio orientadas al aprendizaje práctico de **automatización**, **adquisición de datos** e **integración HMI**. Diseño educativo que puede usarse como base para prototipos industriales.
+
+---
+
+## 📑 Índice
+- [Contenido del Repositorio](#-contenido-del-repositorio)  
+- [Requisitos](#-requisitos-del-proyecto)  
+  - [Hardware](#-hardware)  
+  - [Software](#-software)  
+- [Arquitectura General](#-arquitectura-general)  
+- [Autores](#-autores)  
+- [Contribuciones](#-contribuciones)  
+- [Agradecimientos](#-agradecimientos)
+
+---
+
+## 📁 Contenido del Repositorio
+
+| 🔧 Proyecto | 📝 Descripción |
+|------------:|---------------:|
+| **Práctica 1 — Manejo de Salidas Digitales (Controllino Mega)** | Control de una matriz de LEDs 3×3 usando salidas del Controllino Mega. |
+| **Práctica 2 — Control Digital y Máquina de Estados (FSM)** | **A:** Uso de 3 botones para controlar patrones de LEDs.<br>**B:** FSM que implementa un semáforo simple. |
+| **Práctica 3 — Interfaz Gráfica (HMI Stone)** | Control de encendido/apagado de LEDs y ajuste de brillo vía HMI STONE. |
+| **Práctica 4 — Adquisición y Control PID de Motor DC** | Lectura de encoder, registro de datos y control PID parametrizable desde la HMI. |
+
+---
+
+## 🛠️ Requisitos del Proyecto
+
+### 🔌 Hardware
+- **Controllino Mega**  
+- **HMI STONE** (Serial TTL — 115200 baudios)  
+- Motor DC con **encoder (36 ppr)**  
+- Fuente de alimentación para motor  
+- NI **myDAQ**  
 - Kit EPC (si aplica)
 
-### Software
-- Arduino IDE  
+### 💻 Software
+- **Arduino IDE**  
 - Librerías: `Stone_HMI_Define.h`, `Procesar_HMI.h`  
-- NI LabVIEW (para simulaciones y obtención de la función de transferencia)
+- **NI LabVIEW** (opcional — para simulación y obtención de función de transferencia)
 
 ---
 
@@ -49,3 +74,25 @@ Controllino Mega
 │
 └── Interfaz HMI
     └── Comunicación Serial (UART)
+
+---
+
+## 👥 Autores
+
+**Eric Cajamarca**  
+GitHub: [@elcaja](https://github.com/elcaja)
+
+**Christopher Carchipulla**  
+GitHub: [@ChrisCarchipulla](https://github.com/ChrisCarchipulla)
+
+---
+
+## Agradecimientos
+
+Material y referencias usadas como base para estas prácticas: documentación oficial de **Controllino**, guías de **HMI STONE** y recursos académicos sobre control PID y adquisición de datos.
+
+---
+
+<div align="center" style="margin-top:18px;">
+  <small>✨ Hecho con propósito educativo — úsalo, mejóralo y compártelo.</small>
+</div>
